@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .div1{
+    width: 80%;
+    margin: 50px auto;
+}
+
+header .div1 img {
+    width: 50px;
+   
+} 

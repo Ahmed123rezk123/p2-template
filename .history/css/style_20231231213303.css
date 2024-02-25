@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .div1{
+    position: relative;
+    width: 80%;
+    margin: 50px auto;
+   display: flex;
+ justify-content: space-between;
+   align-items: center;
+}
+
+header .div1 img {
+
+    height: 40px;
+} 
+
+header .div1  .list {
+    display: flex;
+    ali
+}
+header .div1 .list li {
+   
+list-style: none;
+ 
+}
+header .div1 .list li a {
+    text-decoration: none;
+
+}

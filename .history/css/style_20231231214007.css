@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --maincolor: #7b5244;
+}
+header .div1{
+    position: relative;
+    width: 80%;
+    margin: 50px auto;
+   display: flex;
+}
+
+header .div1 img {
+    height: 40px;
+} 
+
+header .div1  .list {
+    display: flex;
+    ju
+
+}
+header .div1 .list li { 
+list-style: none;
+}
+header .div1 .list li a {
+    text-decoration: none;
+    color: var(--maincolor);
+
+}
+
+header .icons {
+    font-size: 30px;
+}

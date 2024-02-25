@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header .div1{
+    width: 80%;
+    margin: 50px auto;
+}
+
+header .div1 img {
+   
+    height: 30px;
+} 
+
+header .div1 .list {
+    display: flex;
+    justify-content: center;
+}
